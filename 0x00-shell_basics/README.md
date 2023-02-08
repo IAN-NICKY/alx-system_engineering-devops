@@ -1,1 +1,1 @@
-absolute path name script
+script to print absolute path name
